@@ -15,6 +15,7 @@ Under [@webisle](https://github.com/webisle/):
 Under [@might-and-magic](https://github.com/might-and-magic/):
 * [might-and-magic/mm678-i18n](https://github.com/might-and-magic/mm678-i18n)
 * [might-and-magic/erathian-font](https://github.com/might-and-magic/erathian-font)
+* [might-and-magic/mmarch](https://github.com/might-and-magic/mmarch)
 * [might-and-magic/fnt-generator](https://github.com/might-and-magic/fnt-generator)
 
 Under [@emulefanscom](https://github.com/emulefanscom/):
